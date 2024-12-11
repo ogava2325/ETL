@@ -31,3 +31,11 @@ The following SQL query is used to create the Trip table and necessary indexes f
 
 ## Output
 The program inserted 29,889 rows into the database after cleaning and removing duplicates.
+
+## What to do with 10GB?
+1. We can split csv file into smaller ones and process them one by one.
+2. Parallel Processing could be used.
+
+
+
+
